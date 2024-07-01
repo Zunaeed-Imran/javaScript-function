@@ -1,5 +1,8 @@
 <?php
 
+// Min & max number show using forloop and condation in PHP.
+
+
 $arrayList = array(10, 200, 3, 40, 500, 60);
 
 $max = $arrayList[0];
