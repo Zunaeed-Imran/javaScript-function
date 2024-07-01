@@ -1,3 +1,6 @@
+//  Find the minimum number of an array.
+
+
 (function mini() {
   let arr = [99, 56, 99, 54, 51, 2154, 55, 6968, 15];
   let min = arr[0];

@@ -1,3 +1,6 @@
+//  Find the maximum number of an array.
+
+
 function highScore(score) {
   let max = score[0];
   for (let x = 1; x < score.length; x++){
